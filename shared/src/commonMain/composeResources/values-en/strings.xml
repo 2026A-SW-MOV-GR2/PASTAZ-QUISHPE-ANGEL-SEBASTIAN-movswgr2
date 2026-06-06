@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="my_text">Portrait - English</string>
+    <string name="my_text_color">#0000FF</string>
+    <string name="my_bg_color">#00FF00</string>
+</resources>
