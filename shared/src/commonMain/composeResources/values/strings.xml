@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="my_text">Retrato - Defecto</string>
+    <string name="my_text_color">#FF0000</string>
+    <string name="my_bg_color">#FFFF00</string>
+</resources>
